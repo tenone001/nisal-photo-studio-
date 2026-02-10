@@ -1,0 +1,7 @@
+{
+  "name": "Nisal Ai photo studio",
+  "description": "A professional-grade AI photo editing assistant capable of generative fill, object removal, background replacement, and advanced retouching using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
